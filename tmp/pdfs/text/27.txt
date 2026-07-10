@@ -1,0 +1,60 @@
+D A SHBO ARD
+LISTINGS
+USERS
+D A SHBO ARD
+T O T AL LISTINGS
+167
+LISTINGS BY ST A TUS
+55% 20%
+FOR S ALE
+80
+FOR RENT
+10
+T O T AL VIEW IN MONTH
+1000
+7 50
+500
+250
+0
+0 1
+MOST POPUL A LISTINGS
+1000
+7 50
+500
+250
+0
+0 1
+T O T AL RENT ALS
+67
+10% 5%
+SOLD
+20
+PENDING
+10
+2 3
+2 3
+4
+4
+NEW LISTINGS (MONTH)
+67
+RECENT A CTIVITY
+New listing
+New us er
+New listing
+New us er
+New listing
+New us er
+5 6
+5 6
+3
+A dmin l ogout
+T O T AL USER
+6767
+2m
+5m
+2m
+5m
+2m
+5m
+7 8 9
+7 8 9
