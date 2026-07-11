@@ -84,8 +84,10 @@
 - รองรับการจำลอง Register และ Login โดยไม่ต้องใช้ Backend
 - Email ที่มีคำว่า `admin` จะจำลองเป็น Admin account
 - ตั้งค่าเริ่มต้นเป็น Demo User บทบาท Customer
-- เปิด URL `#admin` เพื่อเข้าสู่ Admin Demo และ Admin Dashboard
-- สิทธิ์ Admin ถูกเก็บเฉพาะ session ขณะใช้งานหน้ากลุ่ม Admin และจะกลับเป็นผู้ใช้ปกติเมื่อออกสู่หน้าเว็บไซต์ทั่วไป
+- เปิด URL `#admin` เพื่อเข้าสู่ Admin Demo โดยยังแสดงหน้าเว็บไซต์สาธารณะเหมือน User ปกติ
+- Admin Account dropdown มีปุ่ม `Admin Dashboard` สำหรับนำทางไป `#admin-dashboard`
+- URL `#admin-dashboard` จึงเป็นหน้าของ Dashboard จริง
+- สิทธิ์ Admin ถูกเก็บเฉพาะ session และยังสามารถเปิดดูหน้าสาธารณะได้เหมือน User จนกว่าจะ Logout
 - เพิ่มปุ่มเพิ่ม/ลบ Favorite บน Property Card
 - เพิ่มหน้า User Profile พร้อมแบบฟอร์มแก้ไข Name, Email, Phone และ Location
 
